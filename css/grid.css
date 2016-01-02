@@ -16,6 +16,7 @@
   .grid-cell.on-bottom {
     align-self: flex-end; }
   .grid-cell.is-stretched {
+    height: auto;
     align-self: stretch; }
 
 .grid.grid-no-spacing > .grid-cell {
