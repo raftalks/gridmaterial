@@ -32,6 +32,7 @@
 
   //stretch the cell from top to bottom of its parent
   &.is-stretched {
+    height:auto;
     align-self: stretch;
   }
 }
